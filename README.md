@@ -3,4 +3,4 @@
 
 thats it
 
-you cant get gf out of this code bro now go and run it
+you cant get gf xD out of this code bro now go and run it

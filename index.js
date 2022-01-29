@@ -73,3 +73,7 @@ bot.on('spawn',function() {
 bot.on('death',function() {
     bot.emit("respawn")
 });
+
+// Log errors and kick reasons:
+bot.on('kicked', console.log)
+bot.on('error', console.log)
